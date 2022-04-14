@@ -1,2 +1,2 @@
-# Building a Coding Quiz
+# Building Coding Quiz
 Coding Quiz 
